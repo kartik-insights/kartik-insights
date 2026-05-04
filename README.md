@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kartik Bhimrao Aher
 
-<img width="1328" height="540" alt="image" src="https://github.com/user-attachments/assets/f0406f66-9675-4042-89ad-5f21fe127fc8" />
+<img width="1218" height="357" alt="image" src="https://github.com/user-attachments/assets/fe4fd38a-07b4-4d10-88ed-3800bfc37208" />
 
 
 
